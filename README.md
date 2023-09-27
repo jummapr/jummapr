@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a chat app**
  
- 🌱 I’m currently learning **Redis, React Native**
+ 🌱 I’m currently learning **Dart, React Native**
 
  💬 Ask me about **JavsScript, TypeScript, React/NextJs, NodeJs, MongoDB... or anything [here](https://github.com/jummapr/jummapr/issues)**
 
